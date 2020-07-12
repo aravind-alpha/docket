@@ -5,4 +5,6 @@
 - Delete it by category or completed tasks on a particular category when done. 🗑 
 - Uses your Local storage to store the values. 🛢
 
+- ![](screen.png)
+
 Just a Simple JavaScript Application to work on your JS Basics🛠. Nothing much!! 😋 🤟🏻
