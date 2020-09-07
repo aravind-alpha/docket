@@ -7,4 +7,4 @@
 
 ![](screen.png)
 
-Just a Simple JavaScript Application to work on your JS Basics🛠. Nothing much!! 😋 🤟🏻
+
